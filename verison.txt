@@ -1,2 +1,6 @@
-完全版 V0.1.2
-平衡版 V0.1.2
+full version V0.1.2
+balanced version  V0.1.2
+
+
+original file version V2.23 
+time 2.13 2023
