@@ -1,5 +1,6 @@
 # 简介
 这是一个WarThunder自定义载具名称的mod，目前仅支持英文和简体中文，其他语言为官方默认。
+若有遗漏、错误或其他修改建议，请通过[B站](https://space.bilibili.com/36345740)、[KOOK](https://kaihei.co/aGkeNB)或[Discord](https://discord.gg/jpZuPczs55)联系。
 
 修改内容包括但不限于：
 + 细化了击杀信息中显示载具的详细型号，避免混淆。例如
