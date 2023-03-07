@@ -1,6 +1,6 @@
-full version V0.1.3
-balanced version  V0.1.3
+full version V0.1.4
+balanced version  V0.1.4
 
 
-original file version V2.23 
-time 2.13 2023
+original file version V2.25 
+time 03.07 2023
