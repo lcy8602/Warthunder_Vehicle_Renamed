@@ -1,6 +1,5 @@
-full version V0.2.9.0
-balanced version  V0.2.9.0
+full version V0.3.0
+balanced version  V0.3.0
 
 
-original file version V2.47.0.9
-time 2025 6.25
+original file version V2.49.0.4
